@@ -12,7 +12,7 @@ public class ExceptionThree {
 			System.out.println(e);
 			System.out.println("exception handled in catch block");
 		}finally {
-			System.out.println("Iam Ram Murthi Jalukuri");
+			System.out.println("Iam Ram Murthi Jalukuri welcome");
 		}
 
 	}
